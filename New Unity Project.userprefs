@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Train\AddListCkeckPoint.cs">
+    <Files>
+      <File FileName="Assets\Train\AddListCkeckPoint.cs" Line="23" Column="1" />
+      <File FileName="Assets\Train\AllListWagon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\CreateCheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\CreateLineRoadTrains.cs" Line="38" Column="5" />
+      <File FileName="Assets\Train\DestroyAllListWagon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\DestroyTrain.cs" Line="9" Column="17" />
+      <File FileName="Assets\Train\ListCheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\ListTrain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\ListWagon.cs" Line="6" Column="2" />
+      <File FileName="Assets\Train\moveCheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\MoveTrain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\PosArray.cs" Line="11" Column="3" />
+      <File FileName="Assets\Train\TrainRoadLineX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\TrainRoadLineY.cs" Line="1" Column="1" />
+      <File FileName="Assets\Train\Wagon.cs" Line="26" Column="1" />
+      <File FileName="Assets\Train\Mouse.cs" Line="14" Column="24" />
+      <File FileName="Assets\CreateWagon.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
